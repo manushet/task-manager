@@ -1,0 +1,5 @@
+export default {
+    ADD_TASK: 'ADD_TASK',
+    UPDATE_TASK_STATUS: 'UPDATE_TASK_STATUS',
+    IMPORT_TASKS: 'IMPORT_TASKS'
+};
